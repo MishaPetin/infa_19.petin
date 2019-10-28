@@ -1,0 +1,10 @@
+x = y = z = (3,37,45)
+print(x,y,z)
+(3,37,45)
+print(x)
+(3, 37, 45)
+>>> print(y)
+(3, 37, 45)
+>>> print(z)
+(3, 37, 45)
+#One operator can assign the same values ​​to all variables
